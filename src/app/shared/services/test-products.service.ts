@@ -14,10 +14,20 @@ export class TestProductService {
 
         const data = {
             arrayA: [
-                'tomato',
+                "naranja",
+                "fresas",
+                "papaya",
+                "kiwi",
+                "naranja",
+                "platano",
+                "sandia",  
+                "melón",
+                "pera",
             ],
             arrayB: [
-                'tomato',
+                "naranja",
+                "fresas",
+                "pera",
             ],
         };
 
